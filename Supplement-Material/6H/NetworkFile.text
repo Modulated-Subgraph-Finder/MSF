@@ -1,0 +1,334 @@
+cxcl9 map2k6 ->
+
+cxcl10 map2k6 ->
+
+il6 map2k6 ->
+
+cxcl11 map2k6 ->
+
+il12b il15ra ->
+
+csf3 il15ra ->
+
+il23a il15ra <-
+
+csf2 il15ra ->
+
+il27 stat5a ->
+
+il2ra stat5a <->
+
+il15 il2ra ->
+
+lck stat5a ->
+
+cd80 lck <->
+
+cd274 cd80 <->
+
+il15 lifr ->
+
+il2ra socs1 |->
+
+cd40 stat5a ->
+
+ebi3 stat5a ->
+
+il2ra socs3 |->
+
+jak2 stat5a ->
+
+ccr7 jak2 ->
+
+ccl4l1 ccr7 ->
+
+ccl3l1 ccr7 ->
+
+ccl4 ccr7 ->
+
+ccl8 ccr7 ->
+
+ccl20 ccr7 ->
+
+ccl3 ccr7 ->
+
+ccl19 ccr7 ->
+
+il1b jak2 ->
+
+ccl1 ccr7 ->
+
+tnfsf10 birc3 <-
+
+tnf birc3 <-
+
+traf1 birc3 <-
+
+tnf helz2 |-
+
+amotl2 lats2 ->
+
+wtip lats2 |-
+
+dll4 notch1 ->
+
+notch1 dtx3 <-
+
+notch1 hes1 <-
+
+rad9a hes1 <-
+
+rad9a nbn <-
+
+ddx58 traf6 ->
+
+tlr7 traf6 ->
+
+il1a traf6 ->
+
+traf6 irf7 <-
+
+amph egf ->
+
+edn1 egf ->
+
+blk egf ->
+
+cd79b blk |-
+
+ntn1 unc5c ->
+
+ntn1 pik3ca ->
+
+ret pik3ca <-
+
+pik3ca prkcz ->
+
+trip10 prkcz <-
+
+prkcz nfatc2 <-
+
+nfatc2 batf3 <-
+
+map3k8 nfatc2 ->
+
+fyn slamf1 ->
+
+fyn cd244 <-
+
+nfix polr3c ->
+
+nfix polr3g ->
+
+dusp5 mapk11 -|
+
+mapk11 krt8 <-
+
+sstr2 gnai1 <-
+
+ffar2 gnai1 ->
+
+oxtr gnai1 <-
+
+adrb2 gnai1 ->
+
+gnai1 cacna1a |-
+
+gnai1 cacna1f |-
+
+s1pr3 gnai1 <-
+
+tnxb sdc4 <-
+
+col1a1 sdc4 ->
+
+col5a2 sdc4 ->
+
+cxcl6 cxcr2 ->
+
+cxcl5 cxcr2 ->
+
+ccl17 cxcr2 ->
+
+ccl23 cxcr2 ->
+
+ccl15 cxcr2 ->
+
+reln map1b <-
+
+reln itgb8 <-
+
+vtn itgb8 <-
+
+lama3 itgb8 <-
+
+tnn itgb8 <-
+
+prkacg kcnj11 <-
+
+prkacg creb3l1 <-
+
+prkacg scn1b ->
+
+prkacg kcns3 <-
+
+prkacg nfkb1 <-
+
+nfkb1 cebpd |-
+
+dkk2 wnt2b -|
+
+dkk2 wnt5b -|
+
+socs2 jak3 |-
+
+jak3 stat2 ->
+
+plxnb1 rnd1 ->
+
+sema4c plxnb1 <-
+
+ncoa2 cyp7b1 |-
+
+ncoa2 gtf2b <-
+
+lamb1 cd44 <-
+
+lamc2 cd44 <-
+
+lamb1 sv2b ->
+
+dusp8 map3k4 -|
+
+gadd45b map3k4 ->
+
+gadd45a map3k4 ->
+
+slit1 robo1 <-
+
+robo1 ctnnb1 <-
+
+ifna1 il10ra ->
+
+il19 il10ra <-
+
+ctf1 ifngr1 ->
+
+ifnb1 ifngr1 ->
+
+lif ifngr1 <-
+
+ifngr1 pik3r1 ->
+
+pik3r1 dapp1 <-
+
+casp10 casp3 ->
+
+bcl2l11 casp3 ->
+
+casp3 top1 ->
+
+egf flt4 ->
+
+pvrl3 pik3ca <-
+
+pgf pik3ca ->
+
+ctnnb1 tcf7l1 ->
+
+ptprb ctnnb1 <-
+
+casp10 casp7 ->
+
+gzmb casp10 <-
+
+casp3 dffa ->
+
+cxcl9 cxcr4 ->
+
+ccl4l1 cxcr4 ->
+
+cxcl9 map2k3 ->
+
+tnf map2k3 <-
+
+prkaca map2k6 <-
+
+csf2 prkaca <->
+
+dnm1 notch1 ->
+
+dnm1 edn1 <->
+
+adam17 notch1 ->
+
+adam17 traf6 ->
+
+mapk3 notch1 ->
+
+s1pr3 mapk3 <-
+
+mapk1 notch1 ->
+
+prkcz mapk1 <-
+
+hes1 stat3 ->
+
+fyn stat3 ->
+
+nfix polr2e ->
+
+stat3 polr2e <-
+
+dusp5 mapk12 -|
+
+dusp8 mapk12 -|
+
+mapk11 ripk2 <->
+
+mapk3 ripk2 ->
+
+gnb4 mapk11 ->
+
+wnt2b gnb4 <-
+
+rps6ka5 mapk11 |-
+
+rps6ka5 creb3l1 <-
+
+src mapk11 <-
+
+itgb8 src ->
+
+gnai2 mapk11 ->
+
+cxcr2 gnai2 ->
+
+tnxb itga1 <-
+
+lamb1 itga1 <-
+
+tnxb itga7 <-
+
+reln itga7 <-
+
+jak3 stat4 ->
+
+stat4 nfkb1 <-
+
+lrp6 ctnnb1 |-
+
+wnt2b lrp6 <-
+
+ctnnb1 ajuba <-
+
+ajuba lats2 -|
+
+il12a il10ra <-
+
+il12a ifngr1 <-
+
+casp3 cdh1 ->
+
+cdh1 pik3r1 ->
+

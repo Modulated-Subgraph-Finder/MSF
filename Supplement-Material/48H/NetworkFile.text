@@ -1,0 +1,1050 @@
+ccl8 ccr7 ->
+
+ccl20 ccr7 ->
+
+ccl4l1 ccr7 ->
+
+zbp1 tbk1 <-
+
+tbk1 irf7 <-
+
+ifnb1 il2ra ->
+
+ifnb1 il15ra ->
+
+il12a il15ra ->
+
+il23a il2ra ->
+
+il6 il2ra <-
+
+ifna8 il2ra ->
+
+ifnb1 jak3 ->
+
+cxcr1 jak3 ->
+
+cxcl11 cxcr1 ->
+
+cxcl10 cxcr1 ->
+
+ccl13 cxcr1 ->
+
+ccl4 cxcr1 ->
+
+ccl3l1 cxcr1 ->
+
+ccl23 cxcr1 ->
+
+il15 il2ra ->
+
+ccl1 cxcr1 ->
+
+ccl7 cxcr1 ->
+
+ifna2 il2ra ->
+
+il6 map2k6 ->
+
+csf3 il2ra ->
+
+cxcl12 cxcr1 ->
+
+il7 il2ra <-
+
+ccl15 cxcr1 ->
+
+cxcl5 cxcr1 ->
+
+ifnb1 prlr ->
+
+ifna14 il2ra ->
+
+prkca cd38 <-
+
+prkca ncf1 <-
+
+prkca adam12 <-
+
+il27 stat1 ->
+
+ebi3 stat1 <->
+
+tnfsf10 birc3 <-
+
+tnf birc3 <-
+
+tnf helz2 |-
+
+tnf tnfaip3 ->
+
+traf1 birc3 <-
+
+wnt1 helz2 |-
+
+wnt1 fzd4 <-
+
+birc3 fas <-|
+
+kif20a birc5 <-
+
+kif20a plk1 <->
+
+plk1 cdc20 <-
+
+birc5 kif2c ->
+
+birc5 cenpa <->
+
+kif20a prc1 ->
+
+plk1 tp73 ->
+
+cdk1 tp73 ->
+
+plk1 bub1b <-
+
+plk1 tpx2 ->
+
+plk1 cdc25c <-
+
+gtse1 cdc25c |-
+
+ccna2 tp73 ->
+
+cdk1 foxm1 ->
+
+ccna2 cdc6 -|
+
+ccna1 cdc6 -|
+
+ccna1 e2f2 -|
+
+inhba tgfb3 -|
+
+inhbe tgfb3 -|
+
+adora3 gnai1 ->
+
+gnai1 plcb4 ->
+
+met plcb4 ->
+
+igf1 met ->
+
+flt4 plcb4 ->
+
+hcar2 gnai1 <-
+
+yes1 gnai1 <-
+
+met shc3 ->
+
+rgs18 gnai1 <-
+
+gabbr2 gnai1 ->
+
+angpt4 met ->
+
+wnt5a yes1 ->
+
+pdgfra plcb4 ->
+
+hcar3 gnai1 <-
+
+efna1 met ->
+
+cd274 cd80 <->
+
+cd274 pdcd1 ->
+
+aurkb ncapg ->
+
+aurkb stmn1 ->
+
+aurkb ncaph ->
+
+aurkb des ->
+
+aurkb kif23 ->
+
+cdca8 kif23 ->
+
+serpine2 f13a1 |-
+
+serpine2 vwf -|
+
+vwf itgb8 <-
+
+itgb8 tnc VARIANT
+
+vwf itga1 <-
+
+serpine2 gp1ba |-
+
+camk2b cacna2d3 <-
+
+camk2b pde4b -|
+
+camk2b pde4d -|
+
+mcm10 pola1 ->
+
+cdc45 pola1 ->
+
+mcm4 pola1 ->
+
+mcm7 pola1 ->
+
+mcm2 pola1 ->
+
+mcm8 pola1 ->
+
+ddx58 mavs ->
+
+ifih1 mavs ->
+
+dhx58 ifih1 ->
+
+ntn1 unc5c ->
+
+ntn1 unc5a ->
+
+ntn1 unc5b ->
+
+nckap1 diaph3 |-
+
+nckap1 wasf1 -|
+
+wasf1 actg1 <-
+
+mylpf actg1 <-
+
+pfn2 actg1 <-
+
+serping1 c1r |-
+
+serping1 c1s |-
+
+serping1 c1qa |-
+
+c3 cr1 ->
+
+c3 c5 ->
+
+klf4 polr2i ->
+
+epas1 polr2i ->
+
+notch4 dtx3 <-
+
+dll4 notch4 ->
+
+dll1 notch4 ->
+
+notch4 dtx3l <-
+
+kif15 mapk8 ->
+
+dusp1 mapk8 -|
+
+mapk8 bcl2l11 <-
+
+mapk8 fosb <-
+
+mapk8 e2f1 <-
+
+e2f1 twist1 ->
+
+cd40 mapk8 ->
+
+il2rb mapk8 ->
+
+il2rb socs3 |->
+
+il2rb socs1 ->
+
+tslp il2rb <-
+
+tslp il7r <-
+
+tslp il12rb1 <-
+
+tslp csf2rb <-
+
+e2f1 mef2c ->
+
+mefv pycard -|
+
+pycard casp5 <-
+
+prf1 gzmb <-
+
+gzmb casp10 <-
+
+trib3 rictor |-
+
+rictor prkcb <-
+
+nrg2 prkcb ->
+
+chrm3 prkcb ->
+
+prkcb egf <-
+
+ptprk egf |-
+
+amph egf ->
+
+prkcb gng7 <-
+
+camk1g creb5 ->
+
+prkd2 creb5 <-
+
+prkacg creb5 <-
+
+prkacg atp2b2 <-
+
+prkacg grin3a <-
+
+prkacg grin2d <-
+
+prkacg gngt2 <-
+
+reln map1b <-
+
+reln itga4 <-
+
+lamb1 itga4 <-
+
+reln itga9 <-
+
+thbs1 itga4 <-
+
+reln itga11 <-
+
+itga4 amica1 <-
+
+reln itgb7 <-
+
+cdkn1b ube2c -|
+
+cdkn2c cdkn1b |-
+
+cdkn2d cdkn1b |-
+
+akt3 cdkn1b -|
+
+akt3 tbc1d4 ->
+
+chmp4c map1lc3a ->
+
+chmp4c gabarapl1 ->
+
+chmp4c ubc ->
+
+rfc3 ubc <->
+
+rfc3 nbn <-
+
+rfc3 ube2t ->
+
+rfc3 hes1 <-
+
+rfc3 fanci <-
+
+brca1 fanci ->
+
+mnd1 brca1 <-
+
+mnd1 rad51 ->
+
+brca1 gadd45a ->
+
+gadd45a ccnb2 |-
+
+mnd1 brca2 <-
+
+prkcq egr4 |-
+
+cd28 prkcq ->
+
+cd4 prkcq ->
+
+hla-dob cd4 <-
+
+cd8b prkcq ->
+
+egr1 prkcq ->
+
+clec4e syk ->
+
+syk lat2 <-
+
+syk cd19 <-
+
+syk nfkbia <-
+
+eif2ak2 nfkbia ->
+
+jak2 nfkbia ->
+
+socs2 jak2 |-
+
+jak2 relb ->
+
+ifna1 jak2 ->
+
+jak2 stat4 ->
+
+jak2 stat2 ->
+
+ripk2 stat4 ->
+
+cxcr4 jak2 ->
+
+ccl19 cxcr4 ->
+
+cxcl6 cxcr4 ->
+
+ccl3 cxcr4 ->
+
+mep1b cdh1 <-
+
+cdh1 tjp1 ->
+
+pvrl2 cdh1 <-
+
+gna13 cdh1 <-
+
+cd14 gna13 ->
+
+cd180 cd14 |-
+
+irak3 cd14 |-
+
+cd14 vcan ->
+
+adra2b gna13 ->
+
+lpar5 gna13 <-
+
+s100b nfkb2 <-
+
+s100a12 nfkb2 <-
+
+il1r1 irak2 ->
+
+il1r1 nfkb1 ->
+
+nfkb1 klf5 |-
+
+tlr5 nfkb1 <-
+
+nfkb1 ebf1 |-
+
+rac3 nfkb1 <-
+
+ceacam1 fn1 ->
+
+fn1 itga6 ->
+
+lama5 itga6 <-
+
+fn1 prkacb <->
+
+prkacb cacna2d4 <-
+
+thbd proc <-
+
+a2m proc -|
+
+proc serpine1 ->
+
+lrp1 serpine1 ->
+
+lrp1 plau ->
+
+ube2d1 plau <-
+
+rims2 rab3a <-
+
+lin7c rab3a ->
+
+lin7c syt1 ->
+
+lin7a rab3a ->
+
+lin7c ppfia4 ->
+
+tnfrsf11a fos <-
+
+fos batf3 <-
+
+sirt1 fos |-
+
+sirt1 pml |-
+
+nr1d1 sirt1 -|
+
+gpld1 plaur ->
+
+klk4 plaur ->
+
+plaur src ->
+
+src sh2d2a <-
+
+src dapp1 <-
+
+ptpn13 src ->
+
+src vegfa <->
+
+vegfa plcb1 <-
+
+chrna1 plcb1 ->
+
+src epha1 <-
+
+gng4 plcb1 ->
+
+htr7 gng4 <-
+
+lrp6 gng4 <-
+
+spred1 dab2ip <-
+
+spred1 rasa3 <-
+
+il1a il1r2 ->
+
+il1a adcy1 <-
+
+adrb2 adcy1 <-
+
+plxna2 rnd1 ->
+
+plxnb1 rnd1 ->
+
+sema4g plxnb1 <-
+
+zfyve9 ppp1r15a <-
+
+tgfbr2 zfyve9 <-|
+
+tgfb2 tgfbr2 ->
+
+sema3d nrp1 <-
+
+sema3b nrp1 <-
+
+sema3f nrp1 <-
+
+nrp1 sema3a <->
+
+bambi bmp6 -|
+
+bambi bmp2 -|
+
+bmp6 smad1 ->
+
+rragc deptor <-
+
+rragc eif4ebp1 <-
+
+cxcl2 cxcr5 ->
+
+cxcl3 cxcr5 ->
+
+ccl22 cxcr5 ->
+
+cxcl16 cxcr5 ->
+
+ccl17 cxcr5 ->
+
+ccne2 cdkn1c -|
+
+cdkn1c ccnd2 |-
+
+ccne2 anapc10 |-
+
+anapc10 ccnb1 -|
+
+ccnb1 ercc6l ->
+
+ccnb1 xpo1 <->
+
+xpo1 foxo1 <-
+
+ppp3ca anapc10 <-
+
+foxo1 gab2 ->
+
+gab2 ikzf3 ->
+
+ccnd2 suv39h1 ->
+
+prkab2 foxo1 <-
+
+ncstn dner <-
+
+ncstn dtx1 <-
+
+grip1 polr2a ->
+
+ncoa2 polr2a ->
+
+ncoa2 gtf2b <-
+
+grip1 gtf2a1 ->
+
+xbp1 ddit3 <-
+
+prkaca xbp1 ->
+
+prkaca atp2b3 <-
+
+prkaca fxyd1 <-
+
+ctf1 il10ra ->
+
+ifna13 il10ra ->
+
+ctf1 il13ra1 ->
+
+nfix polr3g ->
+
+ssb polr3g <-
+
+nfix polr3c ->
+
+nfix polr2l ->
+
+smad4 polr2l <-
+
+sos1 rras2 <-
+
+sos1 grb10 <-
+
+grb10 irs2 -|
+
+stat3 sos1 <-
+
+syngap1 rras2 <-
+
+rras2 pik3cg <-
+
+rras2 brap |-
+
+brap ksr1 -|
+
+rras2 pik3r3 <-
+
+tsg101 sos1 <-
+
+pias1 stat3 -|
+
+sos1 rras <-
+
+rasgrp4 rras2 ->
+
+rasgrf1 rras2 ->
+
+vegfc fgfr1 <-
+
+fgfr1 plcb3 ->
+
+slc9a3r2 plcb3 <-
+
+tgfa fgfr1 <-
+
+fgfr1 shc4 ->
+
+bcr shc4 ->
+
+dusp5 mapk13 -|
+
+dusp8 mapk13 -|
+
+mapk13 jund <-
+
+dusp4 mapk13 -|
+
+mapk13 foxo4 <-
+
+mapk13 atf2 <-
+
+ern1 traf2 ->
+
+traf2 txn ->
+
+chn1 cltb ->
+
+arap2 cltb ->
+
+arhgap4 cltb ->
+
+rac2 iqgap3 <-
+
+rac2 pip5k1b <-
+
+rac2 tnfaip8 ->
+
+dock1 rac2 ->
+
+ralgds rac2 <-
+
+mcm3 pole2 ->
+
+mcm6 pole2 ->
+
+orc3 pole2 ->
+
+dok2 jak1 <-|
+
+lifr jak1 <-
+
+dok2 il2rg <-|
+
+prkce marcksl1 |-
+
+prkce slc25a5 -|
+
+prkce raf1 ->
+
+fcgr2b raf1 -|
+
+raf1 pik3r2 <-
+
+raf1 pik3ca <-
+
+pgf pik3ca ->
+
+hspa1l stub1 -|
+
+hspa6 stub1 -|
+
+skap1 rap1b <-
+
+rapgef2 rap1b <-
+
+rap1b rgs14 ->
+
+gpsm2 gng5 |-
+
+wnt5b gng5 <-
+
+fzd5 gng5 ->
+
+sept2 tubb ->
+
+sept2 plk4 <-
+
+thbs2 sdc4 <-
+
+col6a3 sdc4 ->
+
+col6a3 cd44 <-
+
+lama3 cd44 <-
+
+thbs2 cd36 <-
+
+tln2 itgb3 <-
+
+spp1 itgb3 <-
+
+itgb3 tln1 <->
+
+plk1 spc24 ->
+
+kiaa0101 rfc3 ->
+
+gadd45b ccnb2 |-
+
+ccnb2 cpeb1 ->
+
+mep1b jup <-
+
+bambi tgfbr3 -|
+
+cxcl1 cxcr5 ->
+
+smad4 tcf7l1 ->
+
+smad9 smad4 <-
+
+smad4 nr3c1 <-
+
+fgf11 fgfr1 ->
+
+pdgfa fgfr1 <-
+
+pip5k1b gsn |-
+
+rhoq tnfaip8 ->
+
+clcf1 lifr ->
+
+csf2 lifr ->
+
+sept2 nek2 <-
+
+sept2 kif24 <-
+
+sept2 dynll1 <-
+
+sept2 nedd1 <-
+
+thbs2 itgb4 <-
+
+ccl8 ccr4 ->
+
+ccl13 ccr4 ->
+
+ccr7 gnai3 ->
+
+prkca gnai3 <-
+
+zbp1 ikbke <-
+
+mavs ikbke <-
+
+zbp1 chuk <-
+
+tnfsf10 chuk <-
+
+ptpn11 tbk1 -|
+
+il6 ptpn11 ->
+
+il27 stat5a ->
+
+il2ra stat5a <->
+
+lyn stat1 ->
+
+lyn shc3 ->
+
+crebbp stat1 ->
+
+camk2b crebbp ->
+
+ep300 stat1 ->
+
+ep300 tp73 ->
+
+camk2d stat1 ->
+
+camk2d stmn1 ->
+
+inhba tgfb1 -|
+
+tgfb1 stat4 |-
+
+smad7 tgfb3 -|
+
+pml smad7 |-|
+
+ltbp1 tgfb3 <-|
+
+thbs1 ltbp1 |-
+
+cd80 hla-a <->
+
+hla-a il2ra ->
+
+vwf itgav <-
+
+itgav igf1 <-
+
+rpa1 pola1 <-
+
+kiaa0101 rpa1 ->
+
+mcm7 rad17 ->
+
+mapk8 rad17 <->
+
+ntn1 map2k2 <-
+
+il2rb map2k2 ->
+
+ntn1 rhoa ->
+
+jup rhoa ->
+
+ntn1 cdc42 <-
+
+cdc42 diaph3 ->
+
+ntn1 map2k1 <-
+
+jak2 map2k1 ->
+
+unc5a rac1 <-
+
+egf rac1 ->
+
+unc5b fyn <-
+
+fyn dapp1 <-
+
+unc5b pik3r1 <-
+
+gngt2 pik3r1 ->
+
+c1r c4b ->
+
+c4b c3 <-
+
+klf4 polr2k ->
+
+nfix polr2k ->
+
+klf4 polr2j ->
+
+stat3 polr2j <-
+
+hoxa1 polr2i ->
+
+hoxa1 polr2a ->
+
+smad2 polr2i <-
+
+smad2 tgfb2 ->
+
+notch1 dtx3 <-
+
+notch1 twist1 ->
+
+pycard casp1 <-
+
+casp1 il1r2 ->
+
+pycard il18 <-
+
+il18 stat4 ->
+
+gzmb casp7 <-
+
+casp7 itga6 ->
+
+gzmb bid <-
+
+mapk8 bid <-
+
+casp10 map2k4 ->
+
+rac3 map2k4 <-
+
+bcl2 casp10 -|
+
+akt3 bcl2 ->
+
+prkcq braf <-
+
+rras2 braf <-
+
+lcp2 prkcq ->
+
+lcp2 rap1b ->
+
+cd86 prkcq ->
+
+cd86 gab2 ->
+
+prkcq actb <-
+
+prkce actb <-
+
+prkcq tbxa2r ->
+
+prkaca tbxa2r ->
+
+vav1 prkcq <-
+
+jak1 vav1 ->
+
+prkcq mapk3 <-
+
+mapk3 eif4ebp1 |-
+
+prkcq mapk1 <-
+
+mapk1 smad1 ->
+
+gng2 cd4 <-
+
+gpsm2 gng2 |-
+
+gnai2 cd4 |-
+
+cxcr5 gnai2 ->
+
+cd8b jun ->
+
+mapk13 jun <-
+
+cd8b tyk2 ->
+
+tyk2 nfkb2 <-
+
+akt1 egr1 ->
+
+akt1 ube2d1 ->
+
+lin7c vamp2 ->
+
+tbc1d4 vamp2 ->
+
+nf1 dab2ip <-
+
+nf1 syngap1 ->
+
+plxnb3 rnd1 ->
+
+plxnb3 rac3 -|
+
+ncstn traf6 ->
+
+mapk3 traf6 <->
+
+ctf1 il21r ->
+
+csf2 il21r ->
+
+vegfc csf1r <-
+
+pgf csf1r <-
+
+fgfr1 pik3cd ->
+
+traf2 pik3cd <-
+
+chn1 arf1 <-
+
+arf1 pik3ca ->
+
+rac2 acta1 <-
+
+akt1 acta1 <-
+
+pcna pole2 ->
+
+pcna ccnd2 |-
+
+sept2 prkar2b <-
+
+mapk8 prkar2b ->
+
+thbs2 sdc1 <-
+
+prkaca sdc1 ->
+
+col4a2 sdc4 ->
+
+col4a2 itgb3 ->
+
