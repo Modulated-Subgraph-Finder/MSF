@@ -30,9 +30,9 @@ To find the Modulated sub-graphs you need two files. One file is tab-separated t
 
 Navigate to folder containing the jar file and the example files and run command
 
-`java -jar ModulatedSubPathFinder.jar -p ExampleDEAnalysis.txt -i ExampleInteractions.txt -t DEseq2 -k -o /home/Documents/`
+`java -jar ModulatedSubPathFinder.jar -p ExampleDEAnalysis.txt -i ExampleInteractions.txt -t DEseq2 -k yes -o /home/Documents/`
 
-The default extension and merging limit is 2.
+The default extension limit is 2 and merging limit is 1.
 
 ### Output Files
 
