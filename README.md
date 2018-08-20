@@ -199,7 +199,7 @@ Eclipse Neon
 
 ## Version
 
-Version 1.0 of the tool.
+Version 1.0 DOI: 10.5281/zenodo.1400242 
 
 ## Authors
 
@@ -207,7 +207,7 @@ Version 1.0 of the tool.
 
 ## License
 
-This project is licensed under the Creative Commons Attribution 4.0 International License.
+This project is licensed under the MIT license.
 
 
 
