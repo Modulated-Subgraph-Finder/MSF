@@ -199,7 +199,8 @@ Eclipse Neon
 
 ## Version
 
-Version 1.0 DOI: 10.5281/zenodo.1400242 
+Version 1.0
+DOI: 10.5281/zenodo.1400242 
 
 ## Authors
 
