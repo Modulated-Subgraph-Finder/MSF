@@ -1,4 +1,4 @@
-# Reproducing Ebola infection analysis with MSF
+# Reproducing Ebola Infection Analysis with MSF
 
 Open the link 
 
@@ -14,7 +14,7 @@ Extract the columns
 
 `Donor11.EBOV 6H, 1D, 2D with Donor11.Mock 6H, 1D, 2D`
 
-these are the 3 replicates for each time-point. Using these replicates Differential gene expression analysis was carried out with EdgeR (version 3.4.2) using an upper-quartile normalization.
+these are the 3 replicates for each time-point. Using these replicates differential gene expression analysis was carried out with EdgeR (version 3.4.2) using an upper-quartile normalization.
 
 # Modulated Sub-graph Finder
 
@@ -29,6 +29,7 @@ Modulated Sub-graph Finder (**MSF**) is used to find the significantly dis-regul
 
 Download the ModulatedSubgraphFinder jar file.
 
+https://github.com/Modulated-Subgraph-Finder/MSF/releases
 
 ## Input Data Preparation
 
@@ -38,8 +39,8 @@ To find the Modulated sub-graphs you need two files. One file is tab-separated t
 
 * `-p`	The path to differential gene expression analysis file 
 * `-i`	The path to network file (Interaction file)
-* `-t`	Software used for differential  gene expression analysis (DEseq2 or EdgeR)
-* `-e`	The extension limit (1 to 3 genes extension)
+* `-t`	Software used for differential gene expression analysis (DEseq2 or EdgeR)
+* `-e`	The extension limit (2 to 3 genes extension)
 * `-m`	The merging limit (1 to 3 genes merging)
 * `-k`	Output extra files (InitialGraphs, ExtendedGraphs and MergedGraphs)
 * `-o`	The path to output folder
@@ -59,17 +60,13 @@ The interaction file used to build and test **MSF** was downloaded from reactome
 First interactions that had no directions were removed from the file. Then indirect interactions were removed followed by interactions like expression regulation and catalyze. The remaining direct interactions were checked manually.
 
 
-
-
-
-
 ## Built With
 
 Eclipse Neon
 
 ## Version
 
-Version 1.0
+Version 1.2
 DOI: 10.5281/zenodo.1400242 
 
 ## Authors
