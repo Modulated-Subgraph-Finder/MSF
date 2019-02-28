@@ -8,15 +8,17 @@ and download GSE84188_norm_matrix_corrected.txt.gz file.
 
 Extract the columns
  
-Donor9.EBOV 6H, 1D, 2D with Donor9.Mock 6H, 1D, 2D
-Donor10.EBOV 6H, 1D, 2D with Donor10.Mock 6H, 1D, 2D
-Donor11.EBOV 6H, 1D, 2D with Donor11.Mock 6H, 1D, 2D
+`Donor9.EBOV 6H, 1D, 2D with Donor9.Mock 6H, 1D, 2D`
+
+`Donor10.EBOV 6H, 1D, 2D with Donor10.Mock 6H, 1D, 2D`
+
+`Donor11.EBOV 6H, 1D, 2D with Donor11.Mock 6H, 1D, 2D`
 
 these are the 3 replicates for each time-point. Using these replicates Differential gene expression analysis was carried out with EdgeR (version 3.4.2) using an upper-quartile normalization.
 
 # Modulated Sub-graph Finder
 
-Modulated Sub-graph Finder (**MSF**) used to find the significantly dis-regulated sub-graphs or cluster of genes from the host cell signaling network, giving these sub-graphs an overall significance of modulation by combining the individual p-values of the genes derived from differential genes expression analysis. 
+Modulated Sub-graph Finder (**MSF**) is used to find the significantly dis-regulated sub-graphs or cluster of genes from the host cell signaling network, giving these sub-graphs an overall significance of modulation by combining the individual p-values of the genes derived from differential genes expression analysis. 
 
 ## Prerequisites
 
