@@ -1,494 +1,494 @@
-cxcl9 map2k6 -> 1  0 
+CXCL9 MAP2K6 -> 1  0 
 
-cxcl10 map2k6 -> 1  0 
+CXCL10 MAP2K6 -> 1  0 
 
-il6 map2k6 -> 1  0 
+IL6 MAP2K6 -> 1  0 
 
-cxcl11 map2k6 -> 1  0 
+CXCL11 MAP2K6 -> 1  0 
 
-il12b il15ra -> 1  0 
+IL12B IL15RA -> 1  0 
 
-csf3 il15ra -> 1  0 
+CSF3 IL15RA -> 1  0 
 
-il15ra il23a <- 0  1 
+IL15RA IL23A <- 0  1 
 
-csf2 il15ra -> 1  0 
+CSF2 IL15RA -> 1  0 
 
-il27 stat5a -> 1  0 
+IL27 STAT5A -> 1  0 
 
-il2ra stat5a <-> 1  1 
+IL2RA STAT5A <-> 1  1 
 
-il15 il2ra -> 1  0 
+IL15 IL2RA -> 1  0 
 
-lck stat5a -> 1  0 
+LCK STAT5A -> 1  0 
 
-cd80 lck <-> 1  1 
+CD80 LCK <-> 1  1 
 
-cd274 cd80 <-> 1  1 
+CD274 CD80 <-> 1  1 
 
-il15 lifr -> 1  0 
+IL15 LIFR -> 1  0 
 
-il2ra socs1 |-> 1  1 
+IL2RA SOCS1 |-> 1  1 
 
-cd40 stat5a -> 1  0 
+CD40 STAT5A -> 1  0 
 
-ebi3 stat5a -> 1  0 
+EBI3 STAT5A -> 1  0 
 
-il2ra socs3 |-> 1  1 
+IL2RA SOCS3 |-> 1  1 
 
-jak2 stat5a -> 1  0 
+JAK2 STAT5A -> 1  0 
 
-ccr7 jak2 -> 1  0 
+CCR7 JAK2 -> 1  0 
 
-ccl4l1 ccr7 -> 1  0 
+CCL4L1 CCR7 -> 1  0 
 
-ccl3l1 ccr7 -> 1  0 
+CCL3L1 CCR7 -> 1  0 
 
-ccl4 ccr7 -> 1  0 
+CCL4 CCR7 -> 1  0 
 
-ccl8 ccr7 -> 1  0 
+CCL8 CCR7 -> 1  0 
 
-ccl20 ccr7 -> 1  0 
+CCL20 CCR7 -> 1  0 
 
-ccl3 ccr7 -> 1  0 
+CCL3 CCR7 -> 1  0 
 
-ccl19 ccr7 -> 1  0 
+CCL19 CCR7 -> 1  0 
 
-il1b jak2 -> 1  0 
+IL1B JAK2 -> 1  0 
 
-ccl1 ccr7 -> 1  0 
+CCL1 CCR7 -> 1  0 
 
-birc3 tnfsf10 <- 0  1 
+BIRC3 TNFSF10 <- 0  1 
 
-birc3 tnf <- 0  1 
+BIRC3 TNF <- 0  1 
 
-birc3 traf1 <- 0  1 
+BIRC3 TRAF1 <- 0  1 
 
-helz2 tnf |- 0  1 
+HELZ2 TNF |- 0  1 
 
-amotl2 lats2 -> 1  0 
+AMOTL2 LATS2 -> 1  0 
 
-lats2 wtip |- 0  1 
+LATS2 WTIP |- 0  1 
 
-dll4 notch1 -> 1  0 
+DLL4 NOTCH1 -> 1  0 
 
-dtx3 notch1 <- 0  1 
+DTX3 NOTCH1 <- 0  1 
 
-hes1 notch1 <- 0  1 
+HES1 NOTCH1 <- 0  1 
 
-hes1 rad9a <- 0  1 
+HES1 RAD9A <- 0  1 
 
-nbn rad9a <- 0  1 
+NBN RAD9A <- 0  1 
 
-ddx58 traf6 -> 1  0 
+DDX58 TRAF6 -> 1  0 
 
-tlr7 traf6 -> 1  0 
+TLR7 TRAF6 -> 1  0 
 
-il1a traf6 -> 1  0 
+IL1A TRAF6 -> 1  0 
 
-irf7 traf6 <- 0  1 
+IRF7 TRAF6 <- 0  1 
 
-amph egf -> 1  0 
+AMPH EGF -> 1  0 
 
-edn1 egf -> 1  0 
+EDN1 EGF -> 1  0 
 
-blk egf -> 1  0 
+BLK EGF -> 1  0 
 
-blk cd79b |- 0  1 
+BLK CD79B |- 0  1 
 
-ntn1 unc5c -> 1  0 
+NTN1 UNC5C -> 1  0 
 
-ntn1 pik3ca -> 1  0 
+NTN1 PIK3CA -> 1  0 
 
-pik3ca ret <- 0  1 
+PIK3CA RET <- 0  1 
 
-pik3ca prkcz -> 1  0 
+PIK3CA PRKCZ -> 1  0 
 
-prkcz trip10 <- 0  1 
+PRKCZ TRIP10 <- 0  1 
 
-nfatc2 prkcz <- 0  1 
+NFATC2 PRKCZ <- 0  1 
 
-batf3 nfatc2 <- 0  1 
+BATF3 NFATC2 <- 0  1 
 
-map3k8 nfatc2 -> 1  0 
+MAP3K8 NFATC2 -> 1  0 
 
-fyn slamf1 -> 1  0 
+FYN SLAMF1 -> 1  0 
 
-cd244 fyn <- 0  1 
+CD244 FYN <- 0  1 
 
-nfix polr3c -> 1  0 
+NFIX POLR3C -> 1  0 
 
-nfix polr3g -> 1  0 
+NFIX POLR3G -> 1  0 
 
-dusp5 mapk11 -| 1  0 
+DUSP5 MAPK11 -| 1  0 
 
-krt8 mapk11 <- 0  1 
+KRT8 MAPK11 <- 0  1 
 
-gnai1 sstr2 <- 0  1 
+GNAI1 SSTR2 <- 0  1 
 
-ffar2 gnai1 -> 1  0 
+FFAR2 GNAI1 -> 1  0 
 
-gnai1 oxtr <- 0  1 
+GNAI1 OXTR <- 0  1 
 
-adrb2 gnai1 -> 1  0 
+ADRB2 GNAI1 -> 1  0 
 
-cacna1a gnai1 |- 0  1 
+CACNA1A GNAI1 |- 0  1 
 
-cacna1f gnai1 |- 0  1 
+CACNA1F GNAI1 |- 0  1 
 
-gnai1 s1pr3 <- 0  1 
+GNAI1 S1PR3 <- 0  1 
 
-sdc4 tnxb <- 0  1 
+SDC4 TNXB <- 0  1 
 
-col1a1 sdc4 -> 1  0 
+COL1A1 SDC4 -> 1  0 
 
-col5a2 sdc4 -> 1  0 
+COL5A2 SDC4 -> 1  0 
 
-cxcl6 cxcr2 -> 1  0 
+CXCL6 CXCR2 -> 1  0 
 
-cxcl5 cxcr2 -> 1  0 
+CXCL5 CXCR2 -> 1  0 
 
-ccl17 cxcr2 -> 1  0 
+CCL17 CXCR2 -> 1  0 
 
-ccl23 cxcr2 -> 1  0 
+CCL23 CXCR2 -> 1  0 
 
-ccl15 cxcr2 -> 1  0 
+CCL15 CXCR2 -> 1  0 
 
-map1b reln <- 0  1 
+MAP1B RELN <- 0  1 
 
-itgb8 reln <- 0  1 
+ITGB8 RELN <- 0  1 
 
-itgb8 vtn <- 0  1 
+ITGB8 VTN <- 0  1 
 
-itgb8 lama3 <- 0  1 
+ITGB8 LAMA3 <- 0  1 
 
-itgb8 tnn <- 0  1 
+ITGB8 TNN <- 0  1 
 
-kcnj11 prkacg <- 0  1 
+KCNJ11 PRKACG <- 0  1 
 
-creb3l1 prkacg <- 0  1 
+CREB3L1 PRKACG <- 0  1 
 
-prkacg scn1b -> 1  0 
+PRKACG SCN1B -> 1  0 
 
-kcns3 prkacg <- 0  1 
+KCNS3 PRKACG <- 0  1 
 
-nfkb1 prkacg <- 0  1 
+NFKB1 PRKACG <- 0  1 
 
-cebpd nfkb1 |- 0  1 
+CEBPD NFKB1 |- 0  1 
 
-dkk2 wnt2b -| 1  0 
+DKK2 WNT2B -| 1  0 
 
-dkk2 wnt5b -| 1  0 
+DKK2 WNT5B -| 1  0 
 
-jak3 socs2 |- 0  1 
+JAK3 SOCS2 |- 0  1 
 
-jak3 stat2 -> 1  0 
+JAK3 STAT2 -> 1  0 
 
-plxnb1 rnd1 -> 1  0 
+PLXNB1 RND1 -> 1  0 
 
-plxnb1 sema4c <- 0  1 
+PLXNB1 SEMA4C <- 0  1 
 
-cyp7b1 ncoa2 |- 0  1 
+CYP7B1 NCOA2 |- 0  1 
 
-gtf2b ncoa2 <- 0  1 
+GTF2B NCOA2 <- 0  1 
 
-cd44 lamb1 <- 0  1 
+CD44 LAMB1 <- 0  1 
 
-cd44 lamc2 <- 0  1 
+CD44 LAMC2 <- 0  1 
 
-lamb1 sv2b -> 1  0 
+LAMB1 SV2B -> 1  0 
 
-dusp8 map3k4 -| 1  0 
+DUSP8 MAP3K4 -| 1  0 
 
-gadd45b map3k4 -> 1  0 
+GADD45B MAP3K4 -> 1  0 
 
-gadd45a map3k4 -> 1  0 
+GADD45A MAP3K4 -> 1  0 
 
-robo1 slit1 <- 0  1 
+ROBO1 SLIT1 <- 0  1 
 
-ctnnb1 robo1 <- 0  1 
+CTNNB1 ROBO1 <- 0  1 
 
-ifna1 il10ra -> 1  0 
+IFNA1 IL10RA -> 1  0 
 
-il10ra il19 <- 0  1 
+IL10RA IL19 <- 0  1 
 
-ctf1 ifngr1 -> 1  0 
+CTF1 IFNGR1 -> 1  0 
 
-ifnb1 ifngr1 -> 1  0 
+IFNB1 IFNGR1 -> 1  0 
 
-ifngr1 lif <- 0  1 
+IFNGR1 LIF <- 0  1 
 
-ifngr1 pik3r1 -> 1  0 
+IFNGR1 PIK3R1 -> 1  0 
 
-dapp1 pik3r1 <- 0  1 
+DAPP1 PIK3R1 <- 0  1 
 
-casp10 casp3 -> 1  0 
+CASP10 CASP3 -> 1  0 
 
-bcl2l11 casp3 -> 1  0 
+BCL2L11 CASP3 -> 1  0 
 
-casp3 top1 -> 1  0 
+CASP3 TOP1 -> 1  0 
 
-mapk3 notch1 -> 1  0 
+MAPK3 NOTCH1 -> 1  0 
 
-etv7 mapk3 |- 0  1 
+ETV7 MAPK3 |- 0  1 
 
-hes1 tle1 -> 1  0 
+HES1 TLE1 -> 1  0 
 
-tcf7l1 tle1 |- 0  1 
+TCF7L1 TLE1 |- 0  1 
 
-egf flt4 -> 1  0 
+EGF FLT4 -> 1  0 
 
-flt4 pgf <- 0  1 
+FLT4 PGF <- 0  1 
 
-egf prkca <- 0  1 
+EGF PRKCA <- 0  1 
 
-cd38 prkca <- 0  1 
+CD38 PRKCA <- 0  1 
 
-blk ptk2 -> 1  0 
+BLK PTK2 -> 1  0 
 
-ptk2 pvrl3 <- 0  1 
+PTK2 PVRL3 <- 0  1 
 
-kitlg pik3ca -> 1  0 
+KITLG PIK3CA -> 1  0 
 
-kitlg stap1 -> 1  0 
+KITLG STAP1 -> 1  0 
 
-egr2 nfatc2 -| 1  0 
+EGR2 NFATC2 -| 1  0 
 
-egr2 irf4 |- 0  1 
+EGR2 IRF4 |- 0  1 
 
-fyn pak1 -> 1  0 
+FYN PAK1 -> 1  0 
 
-ncf1 pak1 <- 0  1 
+NCF1 PAK1 <- 0  1 
 
-mapk11 ripk2 <-> 1  1 
+MAPK11 RIPK2 <-> 1  1 
 
-ripk2 stat4 -> 1  0 
+RIPK2 STAT4 -> 1  0 
 
-gnai1 gnaq <- 0  1 
+GNAI1 GNAQ <- 0  1 
 
-adora2a gnaq -> 1  0 
+ADORA2A GNAQ -> 1  0 
 
-atp1a3 prkacg <- 0  1 
+ATP1A3 PRKACG <- 0  1 
 
-atp1a3 kl <- 0  1 
+ATP1A3 KL <- 0  1 
 
-prkacg rap1b -> 1  0 
+PRKACG RAP1B -> 1  0 
 
-rap1b rapgef2 <- 0  1 
+RAP1B RAPGEF2 <- 0  1 
 
-creb3l1 rps6ka5 <- 0  1 
+CREB3L1 RPS6KA5 <- 0  1 
 
-creb5 rps6ka5 <- 0  1 
+CREB5 RPS6KA5 <- 0  1 
 
-klf5 nfkb1 |- 0  1 
+KLF5 NFKB1 |- 0  1 
 
-klf5 rela |- 0  1 
+KLF5 RELA |- 0  1 
 
-ebf1 nfkb1 |- 0  1 
+EBF1 NFKB1 |- 0  1 
 
-nfkb1 ppp2r2a -> 1  0 
+NFKB1 PPP2R2A -> 1  0 
 
-cacna2d3 ppp2r2a |- 0  1 
+CACNA2D3 PPP2R2A |- 0  1 
 
-dkk2 fzd2 -| 1  0 
+DKK2 FZD2 -| 1  0 
 
-fzd2 kremen2 |- 0  1 
+FZD2 KREMEN2 |- 0  1 
 
-ncoa2 wnt1 |- 0  1 
+NCOA2 WNT1 |- 0  1 
 
-fzd5 wnt1 <- 0  1 
+FZD5 WNT1 <- 0  1 
 
-ncoa2 sirt1 <- 0  1 
+NCOA2 SIRT1 <- 0  1 
 
-pml sirt1 |- 0  1 
+PML SIRT1 |- 0  1 
 
-ctnnb1 gna13 <- 0  1 
+CTNNB1 GNA13 <- 0  1 
 
-adra1b gna13 -> 1  0 
+ADRA1B GNA13 -> 1  0 
 
-akt1 ctnnb1 -> 1  0 
+AKT1 CTNNB1 -> 1  0 
 
-akt1 mal -> 1  0 
+AKT1 MAL -> 1  0 
 
-ctnnb1 ptpn6 <- 0  1 
+CTNNB1 PTPN6 <- 0  1 
 
-kir2dl4 ptpn6 -> 1  0 
+KIR2DL4 PTPN6 -> 1  0 
 
-ifna1 il7r -> 1  0 
+IFNA1 IL7R -> 1  0 
 
-clcf1 il7r -> 1  0 
+CLCF1 IL7R -> 1  0 
 
-epor ifna1 <- 0  1 
+EPOR IFNA1 <- 0  1 
 
-epor tec -> 1  0 
+EPOR TEC -> 1  0 
 
-il19 il21r -> 1  0 
+IL19 IL21R -> 1  0 
 
-camk2d ifngr1 <-> 1  1 
+CAMK2D IFNGR1 <-> 1  1 
 
-camk2d pde4b -| 1  0 
+CAMK2D PDE4B -| 1  0 
 
-calm1 ifngr1 <- 0  1 
+CALM1 IFNGR1 <- 0  1 
 
-calm1 slc8a3 -| 1  0 
+CALM1 SLC8A3 -| 1  0 
 
-ifnb1 prlr -> 1  0 
+IFNB1 PRLR -> 1  0 
 
-il10 prlr -> 1  0 
+IL10 PRLR -> 1  0 
 
-jup pik3r1 -> 1  0 
+JUP PIK3R1 -> 1  0 
 
-jup mmp7 <- 0  1 
+JUP MMP7 <- 0  1 
 
-cdh1 pik3r1 -> 1  0 
+CDH1 PIK3R1 -> 1  0 
 
-cdh1 tjp1 -> 1  0 
+CDH1 TJP1 -> 1  0 
 
-itga6 pik3r1 -> 1  0 
+ITGA6 PIK3R1 -> 1  0 
 
-casp7 itga6 -> 1  0 
+CASP7 ITGA6 -> 1  0 
 
-dapp1 lyn <- 0  1 
+DAPP1 LYN <- 0  1 
 
-lyn ptk2b -> 1  0 
+LYN PTK2B -> 1  0 
 
-dapp1 ppp3cc <- 0  1 
+DAPP1 PPP3CC <- 0  1 
 
-dnm1 ppp3cc <- 0  1 
+DNM1 PPP3CC <- 0  1 
 
-dapp1 src <- 0  1 
+DAPP1 SRC <- 0  1 
 
-sh2d2a src <- 0  1 
+SH2D2A SRC <- 0  1 
 
-casp10 gzmb <- 0  1 
+CASP10 GZMB <- 0  1 
 
-casp10 ptbp2 -> 1  0 
+CASP10 PTBP2 -> 1  0 
 
-casp6 ptbp2 -> 1  0 
+CASP6 PTBP2 -> 1  0 
 
-bcl2 casp10 -| 1  0 
+BCL2 CASP10 -| 1  0 
 
-bcl2 nr4a1 |- 0  1 
+BCL2 NR4A1 |- 0  1 
 
-casp1 casp3 -> 1  0 
+CASP1 CASP3 -> 1  0 
 
-casp1 il18 -> 1  0 
+CASP1 IL18 -> 1  0 
 
-cxcl9 cxcr4 -> 1  0 
+CXCL9 CXCR4 -> 1  0 
 
-ccl4l1 cxcr4 -> 1  0 
+CCL4L1 CXCR4 -> 1  0 
 
-cxcl9 map2k3 -> 1  0 
+CXCL9 MAP2K3 -> 1  0 
 
-map2k3 tnf <- 0  1 
+MAP2K3 TNF <- 0  1 
 
-gab2 il6 <- 0  1 
+GAB2 IL6 <- 0  1 
 
-gab2 pdpk1 <-> 1  1 
+GAB2 PDPK1 <-> 1  1 
 
-csf2 pdpk1 -> 1  0 
+CSF2 PDPK1 -> 1  0 
 
-lats2 stk3 <- 0  1 
+LATS2 STK3 <- 0  1 
 
-ppp2r2a stk3 -| 1  0 
+PPP2R2A STK3 -| 1  0 
 
-ajuba lats2 -| 1  0 
+AJUBA LATS2 -| 1  0 
 
-ajuba ctnna1 <- 0  1 
+AJUBA CTNNA1 <- 0  1 
 
-ctnna1 fyn <- 0  1 
+CTNNA1 FYN <- 0  1 
 
-dll4 notch4 -> 1  0 
+DLL4 NOTCH4 -> 1  0 
 
-adam17 notch4 -> 1  0 
+ADAM17 NOTCH4 -> 1  0 
 
-adam17 traf6 -> 1  0 
+ADAM17 TRAF6 -> 1  0 
 
-nkd1 notch1 |- 0  1 
+NKD1 NOTCH1 |- 0  1 
 
-mapk8 nkd1 -> 1  0 
+MAPK8 NKD1 -> 1  0 
 
-edn1 mapk8 -> 1  0 
+EDN1 MAPK8 -> 1  0 
 
-atp2a1 notch1 -> 1  0 
+ATP2A1 NOTCH1 -> 1  0 
 
-atp2a1 camk2b <- 0  1 
+ATP2A1 CAMK2B <- 0  1 
 
-cacna1f camk2b <- 0  1 
+CACNA1F CAMK2B <- 0  1 
 
-eps15 notch1 -> 1  0 
+EPS15 NOTCH1 -> 1  0 
 
-eps15 grb2 -> 1  0 
+EPS15 GRB2 -> 1  0 
 
-grb2 prkcz -> 1  0 
+GRB2 PRKCZ -> 1  0 
 
-adam10 notch1 -> 1  0 
+ADAM10 NOTCH1 -> 1  0 
 
-adam10 ctnna1 -> 1  0 
+ADAM10 CTNNA1 -> 1  0 
 
-fos notch1 |- 0  1 
+FOS NOTCH1 |- 0  1 
 
-fos stat4 -> 1  0 
+FOS STAT4 -> 1  0 
 
-chek1 hes1 -> 1  0 
+CHEK1 HES1 -> 1  0 
 
-chek1 ppp2ca <- 0  1 
+CHEK1 PPP2CA <- 0  1 
 
-cxcr2 ppp2ca <- 0  1 
+CXCR2 PPP2CA <- 0  1 
 
-hes1 stat3 -> 1  0 
+HES1 STAT3 -> 1  0 
 
-jak3 stat3 -> 1  0 
+JAK3 STAT3 -> 1  0 
 
-mapk3 pla2g16 -> 1  0 
+MAPK3 PLA2G16 -> 1  0 
 
-mapk1 pla2g16 -> 1  0 
+MAPK1 PLA2G16 -> 1  0 
 
-dusp8 mapk1 -| 1  0 
+DUSP8 MAPK1 -| 1  0 
 
-csnk2a1 mapk3 <- 0  1 
+CSNK2A1 MAPK3 <- 0  1 
 
-csnk2a1 map1b -> 1  0 
+CSNK2A1 MAP1B -> 1  0 
 
-gnb4 mapk3 -> 1  0 
+GNB4 MAPK3 -> 1  0 
 
-gnb4 wnt2b <- 0  1 
+GNB4 WNT2B <- 0  1 
 
-smad4 tcf7l1 -> 1  0 
+SMAD4 TCF7L1 -> 1  0 
 
-polr2e smad4 <- 0  1 
+POLR2E SMAD4 <- 0  1 
 
-nfix polr2e -> 1  0 
+NFIX POLR2E -> 1  0 
 
-itga1 tnxb <- 0  1 
+ITGA1 TNXB <- 0  1 
 
-itga1 lamb1 <- 0  1 
+ITGA1 LAMB1 <- 0  1 
 
-col5a3 sdc4 -> 1  0 
+COL5A3 SDC4 -> 1  0 
 
-col5a3 itgb8 -> 1  0 
+COL5A3 ITGB8 -> 1  0 
 
-plxna3 rnd1 -> 1  0 
+PLXNA3 RND1 -> 1  0 
 
-plxna3 rac3 -> 1  0 
+PLXNA3 RAC3 -> 1  0 
 
-dapp1 rac3 -> 1  0 
+DAPP1 RAC3 -> 1  0 
 
-arhgef12 rnd1 <- 0  1 
+ARHGEF12 RND1 <- 0  1 
 
-arhgef12 gna13 <- 0  1 
+ARHGEF12 GNA13 <- 0  1 
 
-cyp7b1 ncoa1 |- 0  1 
+CYP7B1 NCOA1 |- 0  1 
 
-akt1 ncoa1 -| 1  0 
+AKT1 NCOA1 -| 1  0 
 
-cyp7b1 rxra |- 0  1 
+CYP7B1 RXRA |- 0  1 
 
-nr4a1 rxra -| 1  0 
+NR4A1 RXRA -| 1  0 
 
-ep300 pml -> 1  0 
+EP300 PML -> 1  0 
 
-ep300 stat1 -> 1  0 
+EP300 STAT1 -> 1  0 
 
-epor stat1 -> 1  0 
+EPOR STAT1 -> 1  0 
 
